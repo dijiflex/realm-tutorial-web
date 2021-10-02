@@ -3,29 +3,31 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@apollo/client": "^3.1.4",
-    "@emotion/core": "^10.0.35",
+    "@apollo/client": "^3.4.15",
+    "@azure/msal-browser": "^2.17.0",
+    "@azure/msal-react": "^1.0.2",
+    "@emotion/core": "^10.1.1",
     "@emotion/styled": "^10.0.27",
     "@leafygreen-ui/badge": "^3.0.2",
     "@leafygreen-ui/button": "^6.0.2",
     "@leafygreen-ui/card": "^4.1.0",
-    "@leafygreen-ui/icon": "^6.6.0",
-    "@leafygreen-ui/icon-button": "^8.0.0",
+    "@leafygreen-ui/icon": "^6.7.0",
+    "@leafygreen-ui/icon-button": "^8.0.2",
     "@leafygreen-ui/leafygreen-provider": "^1.1.4",
-    "@leafygreen-ui/modal": "^4.1.0",
+    "@leafygreen-ui/modal": "^4.1.1",
     "@leafygreen-ui/palette": "^2.0.2",
     "@leafygreen-ui/text-input": "^3.0.4",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "graphql": "^15.3.0",
-    "graphql-tag": "^2.11.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "graphql": "^15.6.0",
+    "graphql-tag": "^2.12.5",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-scripts": "3.4.3",
     "react-spinners": "^0.9.0",
     "realm-web": "^1.0.0",
-    "validator": "^13.1.1"
+    "validator": "^13.6.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -50,6 +52,6 @@
     ]
   },
   "devDependencies": {
-    "prettier": "^2.1.2"
+    "prettier": "^2.4.1"
   }
 }
